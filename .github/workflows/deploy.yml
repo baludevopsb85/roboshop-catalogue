@@ -8,3 +8,4 @@ jobs:
     with:
       app_name: catalogue
       app_env: dev
+

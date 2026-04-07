@@ -5,3 +5,5 @@ RUN           mkdir /app
 COPY          run.sh /app
 COPY          *.js /app/
 ENTRYPOINT    ["bash", "/app/run.sh"]
+
+
